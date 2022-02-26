@@ -1,0 +1,79 @@
+'''def print_lyrics():
+    print ("I'm a lumberjack, and I'm okay.")
+    print ("I sleep all night and I work all day.")
+    print_lyrics()'''
+
+'''def print_lyrics():
+    print ("I'm a lumberjack, and I'm okay.")
+    print ("I sleep all night and I work all day.")
+def repeat_lyrics():
+    print_lyrics()
+    print_lyrics()
+repeat_lyrics()'''
+    
+'''def pr_twice(a):
+    pr = a * 4
+    print (pr)
+pr_twice("Spam")'''
+
+
+'''def michael_twice(a):
+    michael = a * 2
+    print(michael)
+michael_twice("Eric, the half a bee")'''
+
+'''def pr_twice(line1, line2):
+    pr = (line1 + line2) *2
+    print(pr)
+pr_twice(" Bing tiddle", " tiddle bang")'''
+
+'''import math
+golden = (math.sqrt(5) + 1) / 2
+print (golden)'''
+
+'''import math
+pr = math.sqrt(5)
+print (pr)'''
+
+'''import math
+x = math.cos(90)
+print (x)'''
+
+'''import time
+print ("gol")
+print (time.time())
+print ("log")'''
+
+'''import math
+x = math.pi
+print (x)'''
+
+'''def do_twice(a):
+    do = a * 4
+    print (do)
+do_twice(" Spam")'''
+
+'''def do_twice(f):
+    do = f * 4
+    print (do)
+do_twice(" f()")'''
+
+'''def do_twice():
+    print('+ - - - - + - - - - +')
+    print('|         |         |')
+    print('|         |         |')
+    print('|         |         |')
+    print('|         |         |')
+def repeat_twice():
+    do_twice()
+    do_twice()
+repeat_twice()
+print('+ - - - - + - - - - +')'''
+
+'''i = len("allen")
+def right(s):
+    i = len(s)
+    enought_s = 69 - 1 - 1
+    print (enought_s * ' ', end = '')
+    print (s)
+right("allen")'''
